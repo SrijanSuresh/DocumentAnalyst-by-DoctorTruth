@@ -9,6 +9,9 @@ pip install -r requirements.txt
 ```
 by doing this you won't have a hazzle with your libraries and dependencies
 and then create a local directory data and insert your files inside, for now Dr. Truth can only process PDF format
+```
+mkdir data
+```
 and then run
 ```
 python pdf-rag.py
